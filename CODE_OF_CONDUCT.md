@@ -1,3 +1,1 @@
-# Code of Conduct
-
-Be respectful. Report bad behavior to the repo maintainers.
+# Code of Conduct\nBe respectful.
